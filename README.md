@@ -50,15 +50,6 @@ Any Facebook URL
 
 - Python 3.9+
 - Google Chrome installed
-- A Facebook account (you log in manually once at the start)
-
-### Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/facebook-comment-scraper.git
-cd facebook-comment-scraper
-pip install -r requirements.txt
-```
 
 ### Usage
 
@@ -111,7 +102,13 @@ This tool is intended for **personal and research use only**. Scraping Facebook 
 
 ---
 
-## 🙋 Author
+## 👨‍💻 Author
 
-Made with ☕ and a lot of XPATHs.  
-Feel free to open an issue or a PR if you find a URL format that breaks the normalizer!
+**[Awby]** — Data Scientist & Digital Marketing Analyst  
++7 years experience in marketing analytics, automation, and data science.
+
+📧 awbyybwa93@gmail.com
+
+---
+
+*If this was useful, consider ⭐ starring the repo!*
